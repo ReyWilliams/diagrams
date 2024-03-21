@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T00:41:10.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HWSUQ1w4jfu_XTw61HP8" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T03:10:48.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3KpdWmG_QTYhaP0LGlFx" version="24.0.7" type="github">
   <diagram name="Page-1" id="n1bBKP_SzAVdMD8L-p1r">
-    <mxGraphModel dx="3315" dy="2012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2805" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,8 +142,8 @@
             <mxPoint x="-980" y="-750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q9_zeumVbyzq0WJKMNK4-52" value="lifecycle management,&lt;div&gt;can also use for training&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1050" y="-752" width="80" height="72" as="geometry" />
+        <mxCell id="q9_zeumVbyzq0WJKMNK4-52" value="lifecycle management to automatically delete files or move them to cold storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="-752" width="100" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
